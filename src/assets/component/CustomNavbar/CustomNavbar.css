@@ -1,0 +1,21 @@
+.customNavbar{
+    height: 81px;
+    width: 100vw;
+    background-color: #fffef2;
+}
+
+.left-nav{
+    font-weight: 500;
+    font-size: 14.5px;
+    color: black;
+    position: relative;
+    left: 2.796vw;
+}
+.right-nav{
+    font-weight: 500;
+    font-size: 14.4px;
+    color: black;
+    position: relative;
+    right: -22.796vw;
+}
+

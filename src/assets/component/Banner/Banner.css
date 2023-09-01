@@ -1,0 +1,18 @@
+.banner{
+    background-image: url(https://www.aesop.com/u1nb1km7t5q7/AGQGWYrTapcQI1NrPvsYU/11e99769c1767531dd3c12b6fce85f37/Aesop_Bar_Soaps_2023_Web_Homepage_2_Primary_Full_Bleed_Desktop_2880x1044px.jpg);
+    width: 100vw;
+    height: 100vh;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    
+}
+.left-side-banner{
+    width: 15.378955114054452vw;
+}
+.right-side-banner{
+    width: 31.63vw;
+}
+.text-brown{
+    color: #fffef2;
+}
