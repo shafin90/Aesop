@@ -12,7 +12,47 @@
 }
 .right-side-banner{
     width: 31.63vw;
+    position: relative;
+    bottom: 3.5vw;
 }
 .text-brown{
     color: #fffef2;
 }
+.brand-logo{
+    position: relative;
+    bottom: 15vw;
+}
+.banner-heading{
+    font-weight: 400;
+    font-size: 32px;
+}
+.banner-article{
+    font-size: 17px;
+    line-height: 29px;
+    margin-bottom: 37px;
+}
+.banner-btn{
+    width: 276px;
+    height: 59px;
+    background: transparent;
+    border: 1px solid white;
+    color: white;
+    padding-left: 24px;
+    display: flex;
+    justify-content: start;
+    align-items: center;
+}
+.banner-btn:hover{
+    background-color: white;
+    color: black;
+    transition: 0.4s;
+}
+
+
+
+
+
+
+
+
+
