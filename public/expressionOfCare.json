@@ -1,0 +1,27 @@
+[
+    {
+        "text_part": {
+            "upper_para": "For the body",
+            "heading": "An expression of care",
+            "main_para": "Aesop formulations offer the body deserving care, to cleanse, replenish, and nourish skin. Each product is a sensory pleasure to use with its own delightful aroma.",
+            "button_text": "See all Body Care"
+        },
+        "images_array": [
+            {
+                "image": "https://www.aesop.com/u1nb1km7t5q7/2YWbdNlnJHD3t3zF4arNfK/4d9d61c34d4ef151f41defd952535345/Aesop_Body_Nurture_Bar_Soap_150g_Web_Front_Large_1800x1093px.png",
+                "image_heading": "Nurture Bar Soap",
+                "image_text": "Offers a mild yet effective cleanse "
+            },
+            {
+                "image": "https://www.aesop.com/u1nb1km7t5q7/5NoA4d0c8KG7Hhz5y0kdfq/88bc42ee1a607d834f6f62c94373d2c1/Aesop_Body_Polish_Bar_Soap_150g_Web_Front_Large_1800x1093px.png",
+                "image_heading": "Polish Bar Soap",
+                "image_text": "Thoroughly cleanses and exfoliates skin "
+            },
+            {
+                "image": "https://www.aesop.com/u1nb1km7t5q7/1jDpJFSo3ih2QozJeNoNEJ/5f9d6b5863522f92eee44e0f1100608e/Aesop_Body_Refresh_Bar_Soap_150g_Web_Front_Large_1800x1093px.png",
+                "image_heading": "Refresh Bar Soap",
+                "image_text": "Offers a thorough and enlivening cleanse"
+            }
+        ]
+    }
+]
